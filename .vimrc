@@ -44,7 +44,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set backspace=indent,eol,start
-"  use below to set color scheme, just uncomment and pick name
+" use below to set color scheme, just uncomment and pick name
 "colorscheme molokai
 
 " Set Tagbar to F8
